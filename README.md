@@ -1,5 +1,7 @@
 # Petport — Pet Adoption Product Design
 
+Personal portfolio fork of [the original team repository](https://github.com/swe-students-fall2025/1-specification-byteme). Team authorship and course history are preserved.
+
 **宠物领养产品设计：从用户需求和产品愿景，到用户故事、流程图和可交互原型。**
 
 Petport is a course product-design project that brings pet discovery, trustworthy profiles and shelter communication into one proposed mobile experience. This repository contains requirements and prototypes; it is a specification-stage project.
