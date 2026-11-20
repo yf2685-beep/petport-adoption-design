@@ -6,6 +6,16 @@ Personal portfolio fork of [the original team repository](https://github.com/swe
 
 Petport is a course product-design project that brings pet discovery, trustworthy profiles and shelter communication into one proposed mobile experience. This repository contains requirements and prototypes; it is a specification-stage project.
 
+## Animated walkthrough
+
+Browse pets → review a profile → apply → see the confirmation.
+
+![Petport design journey](docs/media/petport-journey.gif)
+
+Animated storyboard made from the existing team wireframes in this repository. It is a design walkthrough, not a recording of a deployed application. The Figma prototype remains linked below.
+
+[Recreate the animation](docs/DEMO.md). Playback timing is edited for readability.
+
 ## The problem and the proposed experience
 
 Adopters encounter scattered listings, uncertain availability and fragmented conversations. Shelter staff need to maintain listings and handle requests with limited time. Petport proposes a shared workflow:
